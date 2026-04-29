@@ -28,6 +28,8 @@ python3 GhostTR.py
 
 > **Personal note:** If `pip3 install -r requirements.txt` fails, try running `pip3 install -r requirements.txt --break-system-packages` on newer Debian/Ubuntu systems (Python 3.11+).
 
+> **Personal note:** On Termux, if you hit permission errors with pip3, try `pip3 install -r requirements.txt --user` as an alternative before using `--break-system-packages`.
+
 Display on the menu ```IP Tracker```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
