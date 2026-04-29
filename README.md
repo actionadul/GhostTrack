@@ -26,6 +26,8 @@ pip3 install -r requirements.txt
 python3 GhostTR.py
 ```
 
+> **Personal note:** If `pip3 install -r requirements.txt` fails, try running `pip3 install -r requirements.txt --break-system-packages` on newer Debian/Ubuntu systems (Python 3.11+).
+
 Display on the menu ```IP Tracker```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/ip.png " />
