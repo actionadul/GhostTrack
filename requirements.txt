@@ -1,2 +1,5 @@
 requests
 phonenumbers
+colorама
+# optional: for prettier terminal output
+rich
